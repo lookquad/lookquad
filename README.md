@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Luqman
+A software engineer and solution architect, living in New Delhi. Currently I am working with the good folks over at [Phicode](https://phicode.io).
 
-<!--
-**lookquad/lookquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+contact me at luqman.quadri@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github
+![Luqman's github stats](https://github-readme-stats-775kz1aki.vercel.app/api?username=lookquad&count_private=true&show_icons=true&theme=buefy)
+</br>
+
+
+
+
+[website]: https://phicode.io
+[twitter]: https://twitter.com/slquadri
+[github]: https://github.com/lookquad
