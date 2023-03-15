@@ -3,9 +3,7 @@ A software engineer and solution architect, living in New Delhi. Currently I am 
 </br>
 contact me at luqman.quadri@gmail.com
 
-## Github
-![Luqman's github stats](https://github-readme-stats-775kz1aki.vercel.app/api?username=lookquad&count_private=true&show_icons=true&theme=buefy)
-</br>
+
 
 [website]: https://phicode.io
 [twitter]: https://twitter.com/slquadri
